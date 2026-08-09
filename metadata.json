@@ -1,0 +1,6 @@
+{
+  "name": "SQL Practice App - বাংলা এসকিউএল লার্নিং প্ল্যাটফর্ম",
+  "description": "ইন্টারঅ্যাক্টিভ বাংলা SQL লার্নিং অ্যাপ - রিয়েল এসকিউএল ইঞ্জিন, স্কিমা ভিউয়ার, প্রশ্ন এডিটর, প্রগ্রেস ট্র্যাকিং ও এআই টিউটর সহ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
